@@ -1,0 +1,14 @@
+seminar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+seminar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+seminar\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+seminar\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+seminar\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+seminar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+seminar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+seminar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+seminar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+seminar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+seminar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+seminar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+seminar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+seminar\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

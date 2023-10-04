@@ -1,0 +1,12 @@
+seminar\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+seminar\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+seminar\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+seminar\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+seminar\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+seminar\list.o: ../Core/Inc/FreeRTOSConfig.h
+seminar\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+seminar\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+seminar\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+seminar\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+seminar\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+seminar\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
